@@ -1,5 +1,6 @@
 Summary Report on Mars Rover Project – Group 4
 
+
 Introduction
 This project, our team focused on debugging and enhancing the performance of our Mars Rover model, tackling various aspects such as tuning, data analysis, and troubleshooting encountered problems. Our primary tasks included weather data measurement and autonomous navigation.
 
@@ -21,5 +22,3 @@ Solutions Implemented
 
 Conclusion
 This project not only enhanced our technical skills but also taught us valuable troubleshooting techniques. The iterations in tuning and data analysis have prepared us better for future projects, where we aim to integrate more robust systems and achieve higher precision in autonomous operations.
-
-
